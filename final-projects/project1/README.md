@@ -1,3 +1,7 @@
-# Solidity Riddles by [RareSkills](https://www.rareskills.io)
+# Project1
 
-A set of CTFs to fill in the gaps of other CTF collections. Inspired by [Ethernaut](https://ethernaut.openzeppelin.com/) and [Damn Vulnerable DeFi](https://damnvulnerabledefi.xyz/). Most challenges require solving in one transaction, pay close attention to the restrictions in the tests.
+Include:
+    - A brief explanation of your project
+    - A list of the technologies and tools used
+    - Instructions on how to set up, compile, and deploy your project
+    - Screenshots or a video demo of the project in action
