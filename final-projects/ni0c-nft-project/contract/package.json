@@ -1,0 +1,30 @@
+{
+  "name": "concolors",
+  "version": "1.0.0",
+  "description": "ConColors NFT project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "erc721",
+    "NFT",
+    "smart",
+    "contract"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.1",
+    "ethereum-waffle": "^4.0.10",
+    "mocha": "^10.2.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@openzeppelin/hardhat-upgrades": "^1.18.1",
+    "ethers": "^5.6.8",
+    "hardhat": "^2.9.9"
+  }
+}
